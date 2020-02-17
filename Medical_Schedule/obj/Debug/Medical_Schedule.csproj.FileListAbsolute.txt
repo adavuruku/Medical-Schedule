@@ -1,0 +1,13 @@
+C:\Medical_Schedule\Medical_Schedule\bin\Debug\Medical_Schedule.exe
+C:\Medical_Schedule\Medical_Schedule\bin\Debug\Medical_Schedule.pdb
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.Form1.resources
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.Properties.Resources.resources
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.csproj.GenerateResource.Cache
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.exe
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.pdb
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.Form2.resources
+C:\Medical_Schedule\Medical_Schedule\bin\Debug\Medical_Schedule.exe.config
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.MDIParent1.resources
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.Form3.resources
+C:\Medical_Schedule\Medical_Schedule\obj\Debug\Medical_Schedule.Form4.resources
